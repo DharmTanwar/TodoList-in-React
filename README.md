@@ -1,12 +1,29 @@
-# React + Vite
+# React Projects 🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains two mini React projects developed using **Vite**:  
+1. ✅ **Todo List App**  
+2. 🎲 **Basic Lodu App**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✅ 1. Todo List App
 
-## Expanding the ESLint configuration
+A simple React-based Todo List application that demonstrates the use of **React Hooks**, especially `useState`.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ✨ Features:
+- Add new todos
+- Delete todos
+- Clean and responsive UI
+- Functional components with state management
+
+### 🧠 Concepts Used:
+- useState hook
+- Component-based structure
+- JSX and conditional rendering
+- Basic CSS styling
+
+### 🚀 How to Run:
+```bash
+cd react-state-class
+npm install
+npm run dev
